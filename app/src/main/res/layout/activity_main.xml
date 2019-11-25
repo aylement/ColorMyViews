@@ -80,7 +80,7 @@
         android:text="@string/how_to"
         android:textSize="24sp"
         app:layout_constraintTop_toBottomOf="@+id/box_two_text"
-        tools:layout_editor_absoluteX="19dp" />
+        tools:layout_editor_absoluteX="15dp" />
 
     <TextView
         android:id="@+id/tapit_text"
